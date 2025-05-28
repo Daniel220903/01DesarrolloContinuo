@@ -1,1 +1,1 @@
-console.log('Proyecto desplegado con éxito.');
+console.log('Proyecto desplegado con éxito.2s');
